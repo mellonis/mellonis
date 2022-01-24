@@ -4,6 +4,10 @@
 
 -  Financial culture website. Worked on the loan, deposit and inflation calculators, the borrower test, custom form controls, chart generation with the d3 library and svg, Youtube API integration, redux state management and routing. [Announcement](https://www.artlebedev.ru/cbr/fincult/) on the Art. Lebedev Studio website.
 
+## Found bugs
+
+- A memoryleak woth lazy load images in Chromium browsers — https://bugs.chromium.org/p/chromium/issues/detail?id=1213045
+
 <!--
 **mellonis/mellonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
