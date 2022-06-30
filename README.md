@@ -2,7 +2,9 @@
 
 ## Portfolio
 
--  Financial culture website. Worked on the loan, deposit and inflation calculators, the borrower test, custom form controls, chart generation with the d3 library and svg, Youtube API integration, redux state management and routing. [Announcement](https://www.artlebedev.ru/cbr/fincult/) on the Art. Lebedev Studio website.
+-  🏦 [Financial culture website](https://fincult.info). Worked on the loan, deposit and inflation calculators, the borrower test, custom form controls, chart generation with the d3 library and svg, Youtube API integration, redux state management and routing. [Announcement](https://www.artlebedev.com/cbr/fincult/) on the Art. Lebedev Studio website.
+
+- 🥰 [Alex Glushko plastic surgeon website](https://alexglushko.ru/). Worked on the architecture of the page content composition system (blocks, API), custom form controls, Google Maps API integration, curve driving text rendering, canvas animation and theme switching (dark/light) based on the scroll position, configurable images and videos position within a block, css 3d animations, image and video lazy loading (to avoid the bug described below), dynamic svg generation. [Announcement](https://www.artlebedev.com/alexglushko/) on the Art. Lebedev Studio website.
 
 ## Found bugs
 
