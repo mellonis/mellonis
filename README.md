@@ -16,6 +16,10 @@
 
 ## Open source
 
+- 🤖 [machines-demo](https://github.com/mellonis/machines-demo) Interactive in-browser playground for Turing and Post machines. Two tabs (Turing, Post) where you write JavaScript that builds a machine — using the published @turing-machine-js/machine and @post-machine-js/machine libraries — and watch it execute on an animated tape. Auto-running demo on first load, manual control of the tape head via a movement/symbol/Apply panel, single-step and paused-auto-step execution, and a log of every command applied. [Live demo](https://demo.machines.mellonis.ru)
+
+[machines-demo](https://github.com/user-attachments/assets/387841d7-6806-4cb9-9820-6d17f9a9733c)
+
 - 🧮 [@turing-machine-js/machine](https://www.npmjs.com/package/@turing-machine-js/machine) — TypeScript Turing-machine simulator with a builder DSL and a binary-numbers library, published as an npm monorepo. [Source](https://github.com/mellonis/turing-machine-js).
 
 - 🧠 [@post-machine-js/machine](https://www.npmjs.com/package/@post-machine-js/machine) — Post-Turing machine that compiles its compact instruction set (mark / erase / left / right / check) down to states of the Turing-machine simulator above. [Source](https://github.com/mellonis/post-machine-js).
