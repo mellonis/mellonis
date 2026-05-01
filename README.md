@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/a0e36304-aab0-4f39-9463-9fe7253bfbe1
 
 ## Open source
 
-- 🤖 [machines-demo](https://github.com/mellonis/machines-demo) Interactive in-browser playground for Turing and Post machines. Two tabs (Turing, Post) where you write JavaScript that builds a machine — using the published @turing-machine-js/machine and @post-machine-js/machine libraries — and watch it execute on an animated tape. Auto-running demo on first load, manual control of the tape head via a movement/symbol/Apply panel, single-step and paused-auto-step execution, and a log of every command applied. [Live demo](https://demo.machines.mellonis.ru)
+- 🤖 [machines-demo](https://demo.machines.mellonis.ru) Interactive in-browser playground for Turing and Post machines. Two tabs (Turing, Post) where you write JavaScript that builds a machine — using the published @turing-machine-js/machine and @post-machine-js/machine libraries — and watch it execute on an animated tape. Auto-running demo on first load, manual control of the tape head via a movement/symbol/Apply panel, single-step and paused-auto-step execution, and a log of every command applied. [Source](https://github.com/mellonis/machines-demo)
 
 https://github.com/user-attachments/assets/82db4261-ca76-4db5-86db-e161df169b4a
 
